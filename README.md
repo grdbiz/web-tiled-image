@@ -1,3 +1,3 @@
 web-tiled-image
 
-![alt text](http://url/to/img.png)
+![thumbnal](blob/master/0001/tiles/0_0_0.jpg)
